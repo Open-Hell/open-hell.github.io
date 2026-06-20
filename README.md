@@ -2,4 +2,4 @@
 
 Thank you for contributing to Project: STELLAR MATTER and Project: DARK MATTER.
 
-To read more about the OpenHELL architecture (framework, protocol, open standard, research) please visit the OpenHELL project GPT at hopenhell.ai.
+To read more about the OpenHELL architecture (framework, protocol, open standard, research) please visit the OpenHELL project GPT at openhell.ai.
